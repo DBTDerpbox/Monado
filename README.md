@@ -1,3 +1,9 @@
+# Disclaimer
+
+I am **NOT** associated with Monado in any capacity, this mirror just exists for the [week long downtime](https://gitlab.freedesktop.org/freedesktop/freedesktop/-/issues/2076) that will be happening with FreeDesktop's GitLab on March 16th.
+
+This repository will be deleted after the move is completed.
+
 # Monado - XR Runtime (XRT)
 
 <!--
